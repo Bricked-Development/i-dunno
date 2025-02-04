@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "KLYN KernelSU",
+    "version": "5.15.176-1.5.5",
+    "link": "https://github.com/archer-h61m/Action-Kernel-Builder/releases/download/13130268324/5.15.176-KLYN-Kernel-SU-SusFS.zip",
+    "changelog_url": "https://none.com",
+    "date": "2025-02-04",
+    "sha1": "2fb78e1ff91d8b7d347815da44a702bf9d35850c"
+  },
+  "support": {
+    "link": "https://t.me/+me0jWleuvF0zMWVl"
+  }
+}
