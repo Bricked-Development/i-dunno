@@ -3,7 +3,7 @@
     "name": "KLYN KernelSU Next",
     "version": "5.15.176-1.5.5",
     "link": "https://github.com/archer-h61m/Action-Kernel-Builder/releases/download/13131056164/5.15.176-KLYN-Kernel-Next-SusFS.zip",
-    "changelog_url": "https://none.com",
+    "changelog_url": "https://raw.githubusercontent.com/Bricked-Development/i-dunno/refs/heads/main/changelog.txt",
     "date": "2025-02-04",
     "sha1": "1ecc82f67557404c9da0944a3a239075adaba0af"
   },
